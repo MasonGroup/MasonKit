@@ -136,7 +136,6 @@ The project uses **Donut** to convert executable files into shellcode. The shell
 ---
 
 ## Links
-- [GitHub Repository](https://github.com/MasonGroup)
 - [Discord Server](https://discord.gg/dvXH85CfpN)
 - [Instagram](https://www.instagram.com/g7m9)
 
