@@ -1,6 +1,6 @@
 # MasonKit - Rootkit Project
 
-![MasonKit](https://i.ibb.co/qLFfjR2n/image.png)
+![MasonKit](https://i.ibb.co/LzP0f7G3/image.png)
 
 ## Overview
 MasonKit is a **Rootkit** project developed by **ABOLHB** from the **FREEMASONRY** group. The primary purpose of this tool is to **hide a program from the process list** and **inject it into any system file** of your choice. This project is intended for **educational purposes only**, and the creator and contributors are **not responsible** for any misuse or illegal activities performed using this tool.
