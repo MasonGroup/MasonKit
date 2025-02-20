@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masonkit", "Masonkit\Masonkit.csproj", "{48B3C2C7-26B3-4DCE-8B63-56875A266992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B3C2C7-26B3-4DCE-8B63-56875A266992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B3C2C7-26B3-4DCE-8B63-56875A266992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B3C2C7-26B3-4DCE-8B63-56875A266992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B3C2C7-26B3-4DCE-8B63-56875A266992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FC1B9F9-0949-4DA9-AF08-FB6AAEF9455E}
+	EndGlobalSection
+EndGlobal
